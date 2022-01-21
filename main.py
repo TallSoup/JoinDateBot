@@ -29,7 +29,7 @@ async def on_message(message):
         members = client.get_all_members()
         for member in members:
             if member.guild == guild:
-                date = member.joined_at.strftime("%d/%m/%Y %H:%M")
+                date = member.joined_at.strftime("%Y-%m-%d %H:%M:%S")
                 user_dict[member.name] = date
         # print(user_dict)
 
