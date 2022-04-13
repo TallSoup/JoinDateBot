@@ -2,6 +2,10 @@
 
 Returns a CSV of all users in Discord server with their join date and time.
 
+(Hosted on free Heroku account. Will take a few seconds to "wake up" if it hasn't been accessed in the last 30 minutes.)
+
+[Join my test server to see a demo and chat with me.](https://discord.gg/Kk3r9kfmnp)
+
 **To create a bot for your discord:**
 1. Ensure you have admin permissions on the server you want to add your new bot to
 2. Log in to discord website https://discord.com/
