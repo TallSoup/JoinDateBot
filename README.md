@@ -17,4 +17,4 @@ Returns a CSV of all users in Discord server with their join date and time.
 12. Copy the GENERATED URL and paste into your browser, this will invite your bot to the server you select
 13. Check that your bot is in your server
 
-### Run the code locally and it will save a spreadsheet with all users and join dates. If you have the same bot in multiple servers with the same TOKEN it will consolidate all users into one file.
+### Run the code locally and it will save a spreadsheet with all users and join dates when it sees the message **"userdate".** If you have the same bot in multiple servers with the same TOKEN it will consolidate all users into one file.
